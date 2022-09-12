@@ -1,1 +1,1 @@
-4-puts.c prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
+6-size.c prints the size of various types on the computer it is compiled and run on.
