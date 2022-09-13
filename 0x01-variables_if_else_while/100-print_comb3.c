@@ -1,10 +1,11 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 
 /**
- * main - Prints the numbers from 00 to 99, numbers separated by
- *        a comma followed by a space, in ascending order.
+ * main - Entry point
  *
- * Return: Always 0.
+ * Return: Always 0 (Success)
  */
 
 int main(void)
