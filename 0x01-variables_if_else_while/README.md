@@ -1,1 +1,1 @@
-4-print_alphabt.c prints the alphabet in lowercase, followed by a new line.
+9-print_comb.c prints all possible combinations of single-digit numbers.
