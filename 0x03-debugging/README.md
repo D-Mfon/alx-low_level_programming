@@ -1,1 +1,1 @@
-1-main.c part of the code that is causing the output to go into an infinite loop.
+2-largest_number.c, main.h prints the largest of three integers.
